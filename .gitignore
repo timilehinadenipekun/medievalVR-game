@@ -1,0 +1,27 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Xcode generated builds
+iOSBuild/
+iOSBuild_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+
+# macOS files
+.DS_Store
+._*
